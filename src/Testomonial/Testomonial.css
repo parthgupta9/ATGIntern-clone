@@ -1,0 +1,118 @@
+.test{
+width: 1440px;
+height: 484px;
+margin-top: 50px;
+padding: 100px;
+background-color: #F7FDFF;
+
+}
+.img{
+    width: 40px;
+height: 40px;
+margin-top: 40px;
+margin-left: 40px;
+
+}
+.flexx{
+    display: flex;
+ 
+    align-items: center;
+}
+.txt{
+width: 168px;
+height: 36px;
+margin-top: 40px;
+margin-left: 24px;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 600;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.cardd{
+width: 1240px;
+height: 284px;
+margin-top: 30px;
+margin-left: 30px;
+background-color: white;
+
+}
+.textt{
+width: 1160px;
+height: 60px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 300;
+line-height: 30px;
+letter-spacing: 0.02em;
+text-align: left;
+margin-top: 30px;
+margin-left: 40px;
+
+
+}
+#ten{
+    width: Hug (121px);
+height: Hug (40px);
+padding: 12px, 29px, 12px, 29px;
+border-radius: 8px;
+border: 1px solid#8064A2;
+gap: 10px;
+color: #8064A2;
+background-color: white;
+margin-top: 30px;
+
+}
+.testom{
+    width: 1440px;
+height: 672px;
+top: 2057px;
+padding: 100px;
+
+}
+.memo{
+    width: 1240px;
+height: 472px;
+top: 100px;
+left: 100px;
+background-color: #F7F5F9;
+
+}
+#elev{
+    margin-top: 8rem;
+    margin-left: 40px;
+}
+#twelve{
+    margin-top: 8rem;
+    width: 304px;
+    height: 100px;
+    margin-left: 5rem;
+}
+.end{
+    width: 1440px;
+height: 662px;
+margin-top: 50px;
+background-color: #F7FDFF;
+}
+.hobby{
+margin-left: 100px;
+font-family: Poppins;
+font-size: 36px;
+font-style: italic;
+font-weight: 500;
+line-height: 54px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 100px;
+margin-bottom: 30px;
+}
+.ok{
+    margin-left: 100px;
+    
+}
+#twel{
+    margin-top: 50px;
+}
